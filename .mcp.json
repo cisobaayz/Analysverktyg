@@ -1,0 +1,6 @@
+{
+  "mcpServers": {
+    "todoledo": { "type": "http", "url": "https://nas-pi.tail549815.ts.net/mcp" },
+    "plaud":    { "type": "http", "url": "https://mcp.plaud.ai/mcp" }
+  }
+}
